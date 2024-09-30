@@ -1,3 +1,3 @@
-# bobs-portfolio
+# portfolio project
 
 # stormhacks24-intro-to-web-dev
